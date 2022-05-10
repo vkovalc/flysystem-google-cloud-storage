@@ -1,5 +1,5 @@
 {
-	"name": "superbalist/flysystem-google-storage",
+	"name": "vkovalc/flysystem-google-storage",
 	"description": "Flysystem adapter for Google Cloud Storage",
 	"license": "MIT",
 	"authors": [
@@ -10,7 +10,7 @@
 	],
 	"require": {
 		"php": ">=5.5.0",
-		"league/flysystem": "~1.0",
+		"league/flysystem": "^2.0",
 		"google/cloud-storage": "~1.0"
 	},
 	"require-dev": {
